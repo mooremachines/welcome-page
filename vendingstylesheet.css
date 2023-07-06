@@ -1,0 +1,43 @@
+a{
+	color: yellow;
+}
+
+img {
+	max-width: 60%;
+	;
+}
+
+
+h3{
+color: #0e7e1c;
+}
+
+
+.btn-success{
+	border-radius: 300px;
+}
+
+.btn-success:hover {
+background-color: #1b1452;
+}
+
+
+.buffer{
+height: 2.5rem
+}
+
+.content {
+	margin-left: 20px !important;
+}
+
+.container {
+	justify-content: center;
+}
+
+#test-color{
+	border: solid 10px #0e7e1c ;
+	max-width: 85px;
+}
+
+
+
